@@ -1,4 +1,4 @@
-# Maven's Unicorn Challenge
+# Maven Unicorn Challenge
 
 ## About the Dataset
 A unicorn company is a private company with a valuation of more than $1 billion, and today there are over 1,000 unicorn companies around the world!
